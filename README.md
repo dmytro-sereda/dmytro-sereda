@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Dmytro Sereda</h1>
 <h3 align="center">A full-stack developer from Ukraine residing in Canada.</h3>
 
-<p>Let me introduce myself properly. I am a Full-stack developer who started as a HTML/CSS developer and decided to discover more of the web-world. Since then I have been constantly learning new technologies, completed more than 150h of coding courses, worked as a freelancer and now am working for one of the biggest non-profits in Canada.
+<p>Let me introduce myself properly. I am a <b>Full-stack</b> developer who started as a HTML/CSS developer and decided to discover more of the web-world. Since then I have been constantly learning new technologies, completed more than <b>150h</b> of coding courses, worked as a freelancer for <b>2 years</b> and now am working for one of the <b>biggest non-profits</b> in Canada.
 </p>
 
-<p>Below are listed all of the technologies that I have learned and used throughout the years. I am currently exploring more of the Backend world in order to transition towards solid full-stack development. I am trying to build applications in Node.js that leverage MongoDB as a database.
+<p>Below are listed all of the technologies that I have learned and used throughout the years. I am currently exploring more of the Backend world in order to transition towards being a strong full-stack developer. I am trying to build applications in Node.js that leverage MongoDB as a database.
 </p>
 
 <p>I am always opened for new connections, work offers and project ideas. Dont't hesitate to add me on LinkedIn and let's keep growing together.
 </p>
 
-- 🔭 I’m currently working on [a new donation form](https://github.com/dmytro-sereda/azom)
+- 🔭 Here is one of my [favorite projects](https://github.com/dmytro-sereda/dimasfurniture)
+- 🌱 I'm currently learning Node.js and MongoDB
+- 📫 You can reach me at **sereda21d@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
