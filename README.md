@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dmytro Sereda</h1>
-<h3 align="center">A full-stack developer from Ukraine residing in Canada.</h3>
+<h3 align="center">A full-stack developer from Ukraine.</h3>
 
-<p>Let me introduce myself properly. I am a <b>Full-stack</b> developer who started as a HTML/CSS developer and decided to discover more of the web-world. Since then I have been constantly learning new technologies, completed more than <b>150h</b> of coding courses, worked as a freelancer for <b>2 years</b> and now am working for one of the <b>biggest non-profits</b> in Canada.
+<p>I am a <b>Full-stack</b> developer who started as a HTML/CSS developer and decided to discover more of the web-world. Since then I have been constantly learning new technologies, completed more than <b>150h</b> of coding courses, worked as a freelancer for <b>2 years</b> and now have been part of some of very successful teams for over than 2 years.
 </p>
 
 <p>Below are listed all of the technologies that I have learned and used throughout the years. I am currently exploring more of the Backend world in order to transition towards being a strong full-stack developer. I am trying to build applications in Node.js that leverage MongoDB as a database.
